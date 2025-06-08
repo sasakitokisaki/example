@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    font-size: 16px;
+}
+header{
+    background-color: blue;
+
+}
+nav{
+    background-color: aliceblue;
+}
+main{
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+footer{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aquamarine;
+}
+p{
+ line-height: 1.6;
+}
